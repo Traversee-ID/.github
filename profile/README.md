@@ -10,6 +10,9 @@ Indonesia's tourism industry has a wealth of potential that contributes positive
 
 We are excited to introduce our app! Traversee ID to boost Indonesia's tourism industry. It aims to increase visibility and awareness, empowering industry stakeholders to promote their offerings effectively through targeted campaigns. Come with personalized travel recommendations based on user's preferences and interests, user can discover the perfect destinations that align with user's unique travel style. Connect with fellow travelers through our engaging forum, where user can share experiences, seek advice, and forge new friendships. Our app also incorporates sentiment analysis, providing valuable feedback on tourist attractions to help user make informed decisions and ensure an unforgettable journey.
 
+## Traversee ID Android App
+<img src="campaign.png" width="200" height="400" /> <img src="forum.png" width="200" height="400" /> <img src="tourism.png" width="200" height="400" /> <img src="sentiment.png" width="200" height="400" /> <img src="settings.png" width="200" height="400" /> 
+
 
 ## Team Member
 <b>Team ID: C23-PR517</b>
